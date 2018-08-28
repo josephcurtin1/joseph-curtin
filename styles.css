@@ -7,3 +7,6 @@ background-color: green;
 body {
   background-color: purple;
 }
+.navbar {
+  display: flex;
+}
