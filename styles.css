@@ -11,3 +11,6 @@ body {
   display: flex;
   background-image: https://www.w3schools.com/Colors/img_colormap.gif;
 }
+.login {
+  float: right; 
+}
