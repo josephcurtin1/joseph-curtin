@@ -8,5 +8,5 @@ body {
   background-color: purple;
 }
 .navbar {
-  display: inline;
+  display:inline-flex; 
 }
