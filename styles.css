@@ -12,6 +12,7 @@ body {
   background-image: https://www.w3schools.com/Colors/img_colormap.gif;
 }
 .login a {
+  float: right
   border-solid: 1px black;
 }
 .login a: active{
