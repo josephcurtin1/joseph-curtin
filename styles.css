@@ -8,8 +8,8 @@ body {
   background-color: purple;
 }
 .navbar {
-  display: flex;
-  background-image: https://www.w3schools.com/Colors/img_colormap.gif;
+  display: inline;
+  background-image: url("https://www.w3schools.com/Colors/img_colormap.gif");
 }
 .login a {
   float: right
