@@ -12,7 +12,7 @@ body {
   background-image: url("https://www.w3schools.com/Colors/img_colormap.gif");
 }
 .login a {
-  float: right
+  float: right;
   position: relative;
   border-solid: 1px black;
 }
