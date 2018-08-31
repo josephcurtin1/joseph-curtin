@@ -17,13 +17,13 @@ p {
   color: white;
 }
 li {
-  border: 1px solid white;
+  border: 1px solid lightgrey;
   margin-left: 15px;
   padding: 2px;
-  color: white;
+  color: lightgrey;
 }
-h4 {
-  color: white;
+h3 {
+  color: lightgrey;
 }
 .navbar {
   display: flex;
@@ -37,8 +37,9 @@ h4 {
 .login a {
   position: relative;
   cursor: pointer;
-  border: 1px solid white;
-  color: white;
+  border: 2px solid lightgrey;
+  font-weight: bold;
+  color: lightgrey;
   padding: 2px;
 }
 .login a:active{
