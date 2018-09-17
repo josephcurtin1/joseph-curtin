@@ -16,11 +16,11 @@ body {
 p {
   color: white;
 }
-li {
+li  {
   border: 1px solid lightgrey;
   margin-left: 15px;
   padding: 2px;
-  color: lightgrey;
+
 }
 h3 {
   color: lightgrey;
@@ -28,6 +28,7 @@ h3 {
 .navbar {
   display: flex;
   background-image: url("https://cdn5.vectorstock.com/i/1000x1000/39/69/blue-crystal-background-vector-19743969.jpg");
+  color: LightGrey;
 }
 .login {
   float: right;
